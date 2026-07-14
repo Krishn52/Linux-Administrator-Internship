@@ -15,3 +15,16 @@ The Linux Administrator Internship is designed to provide hands-on experience in
 - CPU: 2 Cores
 - Disk: 30 GB
 - Network: NAT
+
+## Installation Steps
+
+1. Download VirtualBox.
+2. Download Kali Linux ISO.
+3. Create a new virtual machine.
+4. Allocate RAM and storage.
+5. Mount the ISO.
+6. Install Kali Linux.
+7. Login to Kali.
+8. Update the system:
+   sudo apt update
+   sudo apt upgrade -y
